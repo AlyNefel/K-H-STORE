@@ -1,0 +1,41 @@
+{
+  "brand": {
+    "name": "K&H Online Store",
+    "slogan": {
+      "ar": "كل ما يهم المرأة و المنزل",
+      "fr": "Tout ce qui importe pour la femme et la maison",
+      "en": "Everything that matters to woman & home"
+    }
+  },
+  "colors": {
+    "blushPink": "#F5E7E5",
+    "ivory": "#FFF9F5",
+    "dustyRose": "#B77D83",
+    "champagneGold": "#C5A477",
+    "charcoal": "#292626",
+    "white": "#FFFFFF",
+    "border": "#EADCD8",
+    "cardBg": "#FFFFFF",
+    "accentDark": "#1E1C1C",
+    "accentGoldLight": "#EAD9BD",
+    "success": "#2E7D32",
+    "warning": "#ED6C02",
+    "danger": "#D32F2F"
+  },
+  "typography": {
+    "fontSerif": "'Amiri', 'Cormorant Garamond', serif",
+    "fontSans": "'Cairo', 'Plus Jakarta Sans', sans-serif"
+  },
+  "radii": {
+    "sm": "0.375rem",
+    "md": "0.5rem",
+    "lg": "0.75rem",
+    "xl": "1rem",
+    "full": "9999px"
+  },
+  "shadows": {
+    "soft": "0 2px 8px -2px rgba(41, 38, 38, 0.05)",
+    "card": "0 4px 16px -4px rgba(41, 38, 38, 0.08)",
+    "elevated": "0 12px 32px -8px rgba(41, 38, 38, 0.12)"
+  }
+}

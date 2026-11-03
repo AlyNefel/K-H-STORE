@@ -1,0 +1,8 @@
+{
+  "name": "K&H Online Store",
+  "description": "متجر K&H الإلكتروني - كل ما يهم المرأة و المنزل. تسوقي أرقى أزياء النساء، الحقائب، العطور، مستحضرات التجميل ومستلزمات وديكور المنزل في تونس.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
